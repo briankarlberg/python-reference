@@ -4,7 +4,7 @@
 
 Description
 ===========
-Returns the integral part of the quotient.
+Returns the integer part of the quotient.
 
 Syntax
 ======
